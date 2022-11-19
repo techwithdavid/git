@@ -1,1 +1,1 @@
-README file
+README file for Git practice
